@@ -57,3 +57,15 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+// npm install -g @angular/cli
+//ng bar-chart
+//cd bar-chart
+//npm start
+//npm install chart.js
+//npm install chartjs-plugin-zoom
+//npm install xlsx
+//npm install file-saver
+//npm install jquery
+//npm install --save-dev @types/jquery
+//npm install --save-dev @types/file-saver
