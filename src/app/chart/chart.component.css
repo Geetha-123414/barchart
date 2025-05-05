@@ -1,0 +1,6 @@
+
+  <div style="max-width: 900px; display: flex; align-items: flex-start; gap: 10px;">
+    <button (click)="importExcel()" style="height: 40px;">Import Excel</button>
+    <canvas #barCanvas style="flex-grow: 1;"></canvas>
+  </div>
+`
